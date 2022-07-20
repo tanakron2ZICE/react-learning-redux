@@ -34,8 +34,8 @@ function MenuInsertBar(props) {
         } else {
             alert('This menu is available.');
         }
-
     }
+    
     return (
         <div className="insert-menu-bar">
             <div className="align-center">
